@@ -1,27 +1,27 @@
 // JavaScript Document
 
-var randomPumpkin = Math.floor((Math.random() * 4) + 1);
+var gametitle = "Pumpkin Game";
+
 
 var pumpkinpatch = "";
-var numpumpkins;
+var numpumpkins = 0;
 document.getElementById("title").innerHTML = gametitle;
-document.getElementById("numbertitle").innerHTML = numpumpkins;
 
 function addPumpkin(event) {
-	
-	var xAdjust;
+
+    var randomPumpkin = Math.floor((Math.random() * 4) + 1);
+	var xAdjust = 360;
+    var yAdjust = 8;
 	var x = event.clientX - xAdjust;
     var y = event.clientY + yAdjust;
 	pumpkinpatch += "<div class='pumpkin" + randomPumpkin + "' style='left: " + x + "px; top:" + y + "px;'></div>";
 	document.getElementById("container").innerHTML = pumpkinpatch;
-	
-	xAdjust = 360;
-	var yAdjust = 8;
+    numpumpkins++;
+    document.getElementById("numbertitle").innerHTML = numpumpkins;
+
 }
 
 
-var gametitle = "Pumpkin Game";
-numpumpkins = 0;
 
 
 
