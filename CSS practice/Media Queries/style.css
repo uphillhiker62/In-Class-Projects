@@ -1,0 +1,57 @@
+html, body {
+    height: 100%;
+    width: 100%;
+    padding: 0;
+    margin: 0;
+}
+body {
+    background-color: darkgrey;
+}
+.container {
+    width: 70%;
+    margin: 5px auto;
+    background-color: white;
+
+}
+.navbar {
+    width: calc(100% - 20px);
+    padding: 10px;
+    background: lightgrey;
+    background-size: cover;
+    height: 50px;
+    margin-bottom: 0;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+i {
+    padding: 5px;
+}
+h1 {
+    margin: 0;
+}
+.mainarea {
+    display: flex;
+    justify-content: space-between;
+    margin: 5px;
+}
+.leftside, .rightside {
+    padding: 0px;
+    margin: 28px;
+}
+.header-hero {
+    background-image: url("city.png");
+    height: 450px;
+    width: 100%;
+    background-repeat: no-repeat;
+}
+@media only screen and (max-width: 500px) {
+    .container {
+       width: 95%;
+       margin: 0 auto;
+    }
+    .mainarea {
+       display: flex;
+       flex-direction: column;
+    }
+}

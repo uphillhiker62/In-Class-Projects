@@ -1,0 +1,416 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="a3255387-6205-46d7-b889-19e7fae5d17b" name="Default" comment="">
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/tables.iml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/watcherTasks.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Bootstrap/css/bootstrap-grid.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Bootstrap/css/bootstrap-grid.css.map" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Bootstrap/css/bootstrap-grid.min.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Bootstrap/css/bootstrap-grid.min.css.map" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Bootstrap/css/bootstrap-reboot.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Bootstrap/css/bootstrap-reboot.css.map" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Bootstrap/css/bootstrap-reboot.min.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Bootstrap/css/bootstrap-reboot.min.css.map" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Bootstrap/css/bootstrap.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Bootstrap/css/bootstrap.css.map" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Bootstrap/css/bootstrap.min.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Bootstrap/css/bootstrap.min.css.map" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Bootstrap/firstpage.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Bootstrap/images/grass.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Bootstrap/images/leaf.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Bootstrap/images/night.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Bootstrap/images/sky.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Bootstrap/images/sunset.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Bootstrap/index.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Bootstrap/js/bootstrap.bundle.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Bootstrap/js/bootstrap.bundle.js.map" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Bootstrap/js/bootstrap.bundle.min.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Bootstrap/js/bootstrap.bundle.min.js.map" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Bootstrap/js/bootstrap.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Bootstrap/js/bootstrap.js.map" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Bootstrap/js/bootstrap.min.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Bootstrap/js/bootstrap.min.js.map" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Bootstrap/js/jquery-3.3.1.slim.min.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Bootstrap/js/popper.min.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Bootstrap/popper.min.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Bootstrap/style.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/CSS practice/Map Practice/index.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/CSS practice/Map Practice/style.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/CSS practice/Media Queries/city.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/CSS practice/Media Queries/index.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/CSS practice/Media Queries/style.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/CSS practice/fonts.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/CSS practice/fonts.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/JavaScript/Classes/action.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/JavaScript/Classes/index.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/JavaScript/Functions/calc.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/JavaScript/Functions/calc.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/JavaScript/Functions/functions.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/JavaScript/Functions/functions.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/JavaScript/Functions/monster.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/JavaScript/Functions/monster.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/JavaScript/Functions/recursions.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/JavaScript/Functions/recursions.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/JavaScript/JQuery/action.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/JavaScript/JQuery/index.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/JavaScript/JQuery/style.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/JavaScript/Minesweeper/action.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/JavaScript/Minesweeper/index.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/JavaScript/Minesweeper/style.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/JavaScript/Objects/index.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/JavaScript/Objects/objects.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/JavaScript/Prototypes, Constructors/cars.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/JavaScript/Prototypes, Constructors/classes.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/JavaScript/Prototypes, Constructors/vehicles.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/JavaScript/Prototypes, Constructors/vehicles.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/JavaScript/Scope and Hoisting/globalandlocal.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/JavaScript/Switch/index.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/JavaScript/Switch/time.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/JavaScript/gameTime/Goat.mp3" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/JavaScript/gameTime/TitleScreen.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/JavaScript/gameTime/action.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/JavaScript/gameTime/index.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/JavaScript/gameTime/menuBack.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/JavaScript/gameTime/style.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/JavaScript/reflectionGame/action.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/JavaScript/reflectionGame/images/Doctor.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/JavaScript/reflectionGame/images/Frankyman.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/JavaScript/reflectionGame/images/castleback.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/JavaScript/reflectionGame/images/frankyWife.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/JavaScript/reflectionGame/images/haunted.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/JavaScript/reflectionGame/images/mummy1.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/JavaScript/reflectionGame/index.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/JavaScript/reflectionGame/style.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/JavaScript/whatsForLunch/index.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/JavaScript/whatsForLunch/script.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Larger In Class Project/granola.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Larger In Class Project/index.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Larger In Class Project/style.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Larger In Class Project/style.less" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Less Project/.idea/Less Project.iml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Less Project/.idea/modules.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Less Project/.idea/watcherTasks.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Less Project/.idea/workspace.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Less Project/index.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Less Project/newstyle.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Less Project/newstyle.less" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Less Project/style.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Material Design Lite/grid.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Material Design Lite/index.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Material Design Lite/styles.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Team-Project1/a-b-image.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Team-Project1/challenges.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Team-Project1/challenges.less" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Team-Project1/fonts.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Team-Project1/global.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Team-Project1/global.less" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Team-Project1/index.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Team-Project1/positioning.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Team-Project1/positioning.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Team-Project1/table.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/lesstest/style.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/lesstest/style.less" />
+    </list>
+    <ignored path="$PROJECT_DIR$/.tmp/" />
+    <ignored path="$PROJECT_DIR$/temp/" />
+    <ignored path="$PROJECT_DIR$/tmp/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file leaf-file-name="globalandlocal.js" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/JavaScript/Scope and Hoisting/globalandlocal.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="90">
+              <caret line="6" column="1" lean-forward="true" selection-start-line="6" selection-start-column="1" selection-end-line="6" selection-end-column="1" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="CSS File" />
+        <option value="HTML File" />
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/table.html" />
+        <option value="$PROJECT_DIR$/fonts.html" />
+        <option value="$PROJECT_DIR$/positioning.html" />
+        <option value="$PROJECT_DIR$/positioning.css" />
+        <option value="$PROJECT_DIR$/CSS practice/fonts.html" />
+        <option value="$PROJECT_DIR$/CSS practice/fonts.css" />
+        <option value="$PROJECT_DIR$/CSS practice/Map Practice/maps.css" />
+        <option value="$PROJECT_DIR$/CSS practice/Map Practice/map.html" />
+        <option value="$PROJECT_DIR$/CSS practice/Map Practice/index.html" />
+        <option value="$PROJECT_DIR$/CSS practice/Media Queries/style.css" />
+        <option value="$PROJECT_DIR$/CSS practice/Map Practice/style.css" />
+        <option value="$PROJECT_DIR$/CSS practice/Media Queries/index.html" />
+        <option value="$PROJECT_DIR$/lesstest/style.less" />
+        <option value="$PROJECT_DIR$/lesstest/index.html" />
+        <option value="$PROJECT_DIR$/Less Project/style.css" />
+        <option value="$PROJECT_DIR$/Less Project/index.html" />
+        <option value="$PROJECT_DIR$/Less Project/newstyle.css" />
+        <option value="$PROJECT_DIR$/Less Project/newstyle.less" />
+        <option value="$PROJECT_DIR$/Larger In Class Project/index.html" />
+        <option value="$PROJECT_DIR$/Larger In Class Project/style.less" />
+        <option value="$PROJECT_DIR$/Team-Project1/global.css" />
+        <option value="$PROJECT_DIR$/Team-Project1/global.less" />
+        <option value="$PROJECT_DIR$/Team-Project1/challenges.less" />
+        <option value="$PROJECT_DIR$/Team-Project1/index.html" />
+        <option value="$PROJECT_DIR$/Bootstrap/style.css" />
+        <option value="$PROJECT_DIR$/Bootstrap/index.html" />
+        <option value="$USER_HOME$/Downloads/drive-download-20180212T142841Z-001/grid.html" />
+        <option value="$PROJECT_DIR$/Bootstrap/firstpage.html" />
+        <option value="$PROJECT_DIR$/../spring2018/Bootstrap/firstpage.html" />
+        <option value="$PROJECT_DIR$/JavaScript/Classes/index.html" />
+        <option value="$PROJECT_DIR$/JavaScript/Classes/action.js" />
+        <option value="$PROJECT_DIR$/JavaScript/Scope and Hoisting/globalandlocal.js" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsFlowSettings">
+    <service-enabled>true</service-enabled>
+    <exe-path />
+    <other-services-enabled>true</other-services-enabled>
+    <auto-save>true</auto-save>
+  </component>
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="3" />
+    <option name="y" value="23" />
+    <option name="width" value="1421" />
+    <option name="height" value="877" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scratches" />
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="In-Class-Projects" type="b2602c69:ProjectViewProjectNode" />
+              <item name="In-Class-Projects" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="In-Class-Projects" type="b2602c69:ProjectViewProjectNode" />
+              <item name="In-Class-Projects" type="462c0819:PsiDirectoryNode" />
+              <item name="JavaScript" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="In-Class-Projects" type="b2602c69:ProjectViewProjectNode" />
+              <item name="In-Class-Projects" type="462c0819:PsiDirectoryNode" />
+              <item name="JavaScript" type="462c0819:PsiDirectoryNode" />
+              <item name="Scope and Hoisting" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="settings.editor.selected.configurable" value="Settings.JavaScript" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="HbShouldOpenHtmlAsHb" value="" />
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
+    <property name="JavaScriptWeakerCompletionTypeGuess" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/Bootstrap" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/Bootstrap" />
+      <recent name="$PROJECT_DIR$/Bootstrap/js" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="a3255387-6205-46d7-b889-19e7fae5d17b" name="Default" comment="" />
+      <created>1517410713063</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1517410713063</updated>
+      <workItem from="1517410714563" duration="1223000" />
+      <workItem from="1517412218165" duration="247000" />
+      <workItem from="1517413668739" duration="13556000" />
+      <workItem from="1517841194276" duration="14880000" />
+      <workItem from="1517932675972" duration="4826000" />
+      <workItem from="1518101230569" duration="42418000" />
+      <workItem from="1520520176785" duration="1025000" />
+      <workItem from="1520608803277" duration="1728000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="79903000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="3" y="23" width="1421" height="877" extended-state="0" />
+    <editor active="true" />
+    <layout>
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.18571429" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Docker" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32938075" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.16864295" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.41370225" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager />
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/../frank/Less Project/index.html" />
+    <entry file="file://$PROJECT_DIR$/../frank/Less Project/style.css" />
+    <entry file="file://$PROJECT_DIR$/../frank/CSS practice/Media Queries/index.html" />
+    <entry file="file://$PROJECT_DIR$/../frank/CSS practice/Media Queries/style.css" />
+    <entry file="file://$PROJECT_DIR$/../frank/CSS practice/fonts.html" />
+    <entry file="file://$PROJECT_DIR$/../frank/CSS practice/fonts.css" />
+    <entry file="file://$PROJECT_DIR$/../frank/table.html" />
+    <entry file="file://$PROJECT_DIR$/../frank/table.html" />
+    <entry file="file://$PROJECT_DIR$/../frank/table.html" />
+    <entry file="file://$PROJECT_DIR$/../frank/CSS practice/fonts.html" />
+    <entry file="file://$PROJECT_DIR$/../frank/CSS practice/fonts.css" />
+    <entry file="file://$PROJECT_DIR$/../frank/positioning.css" />
+    <entry file="file://$PROJECT_DIR$/../frank/positioning.html" />
+    <entry file="file://$PROJECT_DIR$/../frank/CSS practice/Map Practice/style.css" />
+    <entry file="file://$PROJECT_DIR$/../frank/CSS practice/Map Practice/index.html" />
+    <entry file="file://$PROJECT_DIR$/../frank/fonts.html" />
+    <entry file="file://$PROJECT_DIR$/../frank/CSS practice/Media Queries/index.html" />
+    <entry file="file://$PROJECT_DIR$/../frank/CSS practice/Media Queries/style.css" />
+    <entry file="file://$PROJECT_DIR$/../frank/lesstest/style.less" />
+    <entry file="file://$PROJECT_DIR$/lesstest/index.html" />
+    <entry file="file://$PROJECT_DIR$/../frank/lesstest/style.css" />
+    <entry file="file://$PROJECT_DIR$/../frank/Less Project/style.css" />
+    <entry file="file://$PROJECT_DIR$/../frank/Less Project/newstyle.css" />
+    <entry file="file://$PROJECT_DIR$/../frank/Less Project/index.html" />
+    <entry file="file://$PROJECT_DIR$/../frank/Less Project/newstyle.less" />
+    <entry file="file://$PROJECT_DIR$/../frank/Larger In Class Project/style.css" />
+    <entry file="file://$PROJECT_DIR$/../frank/Team-Project1/challenges.less" />
+    <entry file="file://$PROJECT_DIR$/../frank/Larger In Class Project/style.less" />
+    <entry file="file://$PROJECT_DIR$/../frank/Team-Project1/index.html" />
+    <entry file="file://$PROJECT_DIR$/../frank/Team-Project1/global.css" />
+    <entry file="file://$PROJECT_DIR$/../frank/Team-Project1/global.less" />
+    <entry file="file://$PROJECT_DIR$/../frank/Bootstrap/index.html" />
+    <entry file="file://$PROJECT_DIR$/../frank/Bootstrap/style.css" />
+    <entry file="file://$USER_HOME$/Downloads/drive-download-20180212T142841Z-001/styles.css" />
+    <entry file="file://$PROJECT_DIR$/../frank/Bootstrap/js/bootstrap.js" />
+    <entry file="file://$PROJECT_DIR$/../frank/Larger In Class Project/index.html" />
+    <entry file="file://$USER_HOME$/Downloads/drive-download-20180212T142841Z-001/grid.html" />
+    <entry file="file://$PROJECT_DIR$/../frank/Bootstrap/css/bootstrap.css" />
+    <entry file="file://$PROJECT_DIR$/../frank/Bootstrap/popper.min.js" />
+    <entry file="file://$PROJECT_DIR$/../frank/Bootstrap/js/popper.min.js" />
+    <entry file="file://$PROJECT_DIR$/../frank/Bootstrap/js/jquery-3.3.1.slim.min.js" />
+    <entry file="file://$PROJECT_DIR$/../frank/Bootstrap/images/grass.jpg" />
+    <entry file="file://$PROJECT_DIR$/../frank/Bootstrap/images/leaf.jpg" />
+    <entry file="file://$PROJECT_DIR$/../frank/Bootstrap/images/night.jpg" />
+    <entry file="file://$PROJECT_DIR$/../frank/Bootstrap/firstpage.html" />
+    <entry file="file://$PROJECT_DIR$/JavaScript/Classes/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="10" column="7" lean-forward="true" selection-start-line="10" selection-start-column="7" selection-end-line="10" selection-end-column="7" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/JavaScript/Classes/action.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="570">
+          <caret line="38" column="1" lean-forward="true" selection-start-line="38" selection-start-column="1" selection-end-line="38" selection-end-column="1" />
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/JavaScript/Scope and Hoisting/globalandlocal.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="6" column="1" lean-forward="true" selection-start-line="6" selection-start-column="1" selection-end-line="6" selection-end-column="1" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

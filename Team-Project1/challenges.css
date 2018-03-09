@@ -1,0 +1,15 @@
+.challenge-box {
+  display: flex;
+  flex-direction: column;
+  border: 1px solid #f4f5f7;
+}
+.challenge-subbox {
+  display: flex;
+  border: 1px solid #f4f5f7;
+}
+.a-b-image-2 {
+  background-image: url("a-b-image.png");
+  background-size: contain;
+  height: 40px;
+  width: 40px;
+}

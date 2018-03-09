@@ -1,0 +1,1 @@
+let foodArr = ["Soup Kitchen", "Wendy's", "Taco Bell", "Bohemian Brewery", "Del Taco", "Jimmy John's", "Betos", "Weinerschnitzel",]
