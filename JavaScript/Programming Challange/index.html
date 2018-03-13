@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+    <script src="action.js" defer></script>
+</head>
+<body>
+<div class="container">
+    <div style="height: 100px">
+        <p>Guess a number between 1 and 10:</p>
+        <input type="number">
+        <input type="button" value="Submit" onclick="guessNum()">
+    </div>
+
+    <div style="height: 100px">
+        <p>Multiply or divide:</p>
+        <input id="numOne" type="number">
+        <select name="operator" id="chooseOperator">
+            <option value="multiply">*</option>
+            <option value="divide">/</option>
+        </select>
+        <input id="numTwo" type="number"> =
+        <span id ="answer">     </span>
+        <p><input type="button" value="Process" onclick="calculate()"></p>
+    </div>
+
+</div>
+</body>
+</html>
