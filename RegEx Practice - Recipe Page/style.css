@@ -1,0 +1,35 @@
+
+
+body, html {
+    background-color: #caf0ff;
+    height: 100%;
+    width: 100%;
+    margin: 0;
+    padding: 0;
+}
+
+.container {
+    border: 1px solid black;
+    height: 90%;
+    width: 90%;
+    margin: 0 auto;
+    background-color: #f9f3f3;
+}
+
+.searchBox {
+    width: 150px;
+    height: 30px;
+    margin: 10px 30px;
+}
+
+.recipes {
+    margin: 0 auto;
+}
+
+.recipeBox {
+    border: 1px solid grey;
+    width: 95%;
+    height: 55px;
+    margin: 5px auto;
+    background-color: #FFFFFF;
+}
