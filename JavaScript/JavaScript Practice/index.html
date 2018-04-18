@@ -1,0 +1,65 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+
+</head>
+<body>
+    <div class="container" style="text-align: left; background-color: lightskyblue; height: 300px; width: 50%; margin: 0 auto">
+        <input id="text-radius" type="text" size="10">
+        <button type="button" onclick="caculateCircumference()">Calculate</button>
+        <p>
+            Result:
+            <span id="output"></span>
+        </p>
+    </div>
+    <section class="gravity" style="text-align: left; background-color: cornsilk; height: 300px; width: 50%; margin: 0 auto">
+        <div class="mass-input">
+            <label for="get-mass"></label>
+            <input name="input" type="text" id="get-mass">
+            <button onclick="weightCalcs()">Calculate Weights</button>
+        </div>
+
+        <div class="weight-results" style="margin: 8px;">
+            <div class="weight-on-planet">"Your weight on the Sun: "
+                <span id="weight-on-sun"></span>
+            </div>
+            <div class="weight-on-planet">"Your weight on Jupiter: "
+                <span id="weight-on-jupiter"></span>
+            </div>
+            <div class="weight-on-planet">"Your weight on Neptune: "
+                <span id="weight-on-neptune"></span>
+            </div>
+            <div class="weight-on-planet">"Your weight on Saturn: "
+                <span id="weight-on-saturn"></span>
+            </div>
+            <div class="weight-on-planet">"Your weight on the earth: "
+                <span id="weight-on-earth"></span>
+            </div>
+            <div class="weight-on-planet">"Your weight on Uranus: "
+                <span id="weight-on-uranus"></span>
+            </div>
+            <div class="weight-on-planet">"Your weight on Venus: "
+                <span id="weight-on-venus"></span>
+            </div>
+            <div class="weight-on-planet">"Your weight on mars: "
+                <span id="weight-on-mars"></span>
+            </div>
+            <div class="weight-on-planet">"Your weight on Mercury: "
+                <span id="weight-on-mercury"></span>
+            </div>
+            <div class="weight-on-planet">"Your weight on the Moon: "
+                <span id="weight-on-moon"></span>
+            </div>
+            <div class="weight-on-planet">"Your weight on Pluto: "
+                <span id="weight-on-pluto"></span>
+            </div>
+        </div>
+
+    </section>
+
+    <script src="calc.js"></script>
+</body>
+</html>
+

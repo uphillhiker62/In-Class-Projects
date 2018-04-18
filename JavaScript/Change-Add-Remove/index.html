@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+    <script src="https://code.jquery.com/jquery-3.3.1.min.js" integrity="sha256-FgpCb/KJQlLNfOu91ta32o/NMZxltwRo8QtmkMRdAu8=" crossorigin="anonymous"></script>
+    <link rel="stylesheet" href="style.css">
+    <script src="action.js" defer></script>
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css">
+</head>
+<body>
+
+    <div class="container">
+        <div class="main">
+            <div class="header">
+                <input id="inputBox" type="text" placeholder="New List Title">
+                <a href="#" class="btn">Add List</a>
+            </div>
+        </div>
+        <div class="row">
+            <div class="rowLeft">
+                <div class="iconSpot fa fa-check-square" aria-hidden="true"></div>
+                <div class="label">feed dog</div>
+            </div>
+            <div class="rowRight">
+                <div class="removeRow fa fa-trash-o" onclick="removeRow(this)"></div>
+                <a href="#" onclick="markComplete(this)">Mark complete</a>
+            </div>
+        </div>
+    </div>
+</body>
+</html>
+

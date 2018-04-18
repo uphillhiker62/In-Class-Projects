@@ -1,0 +1,34 @@
+.row {
+    width: 80%;
+    padding: 15px;
+    border: 12px solid #dadfea;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-bottom: 5px;
+}
+
+.rowLeft {
+    display: flex;
+}
+
+.iconSpot {
+    margin-right: 10px;
+    width: 16px;
+}
+
+.complete {
+    color: green;
+    border-color: green;
+}
+
+.rowBottom {
+    margin-top: 35px;
+}
+
+.container {
+    overflow: hidden;
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+}
